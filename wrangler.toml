@@ -1,0 +1,10 @@
+name = "hiring-submission-general"
+type = "webpack"
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-11-03"
+kv_namespaces = [ 
+  { binding = "POSTS_KV", id = "6a22f4022dce4a75b18edeca89ccfa54" }
+]
